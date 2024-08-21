@@ -3,10 +3,10 @@
  um desenvolvedor apaixonado por tecnologia com 23 anos. Atualmente, estou cursando Engenharia de Software e tenho uma sólida base em desenvolvimento de sistemas.
 
 <td>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArturCampos17&show_icons=true&theme=tokyonight"/>
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a>
     <img height=200 background="transparent" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArturCampos17&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
   </a>
 </td>
