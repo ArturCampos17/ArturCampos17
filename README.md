@@ -6,10 +6,15 @@ Claro! Aqui está uma sugestão de descrição para sua bio no GitHub:
 💻 Linguagens e Tecnologias:
 
 ♨️ Java
+
 🌐 Node.js
+
 ｡🇯‌🇸‌ JavaScript
+
 </> HTML & CSS
+
 🐘 PHP
+
 🛢️ MySQL
 
 🔧 Experiência:
