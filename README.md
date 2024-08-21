@@ -1,5 +1,3 @@
-Olá a todos,
-
 Meu nome é Artur, tenho 23 anos e sou técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software, o que tem sido uma jornada incrível de aprendizado e crescimento profissional.
 
 Minha trajetória no mundo da programação começou com um foco inicial em back-end, onde desenvolvi uma sólida base em várias linguagens e tecnologias. Tenho experiência prática com Java, Node.js, JavaScript, HTML, CSS e PHP. Além disso, possuo conhecimento em bancos de dados MySQL e em programação orientada a objetos, o que me proporcionou uma compreensão profunda dos princípios de desenvolvimento e design de sistemas.
