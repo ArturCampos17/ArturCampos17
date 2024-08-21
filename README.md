@@ -1,4 +1,4 @@
-## Olá! Eu sou Artur, 🖐️
+## Olá! Eu sou Artur 🤘
 
  um desenvolvedor apaixonado por tecnologia com 23 anos. Atualmente, estou cursando Engenharia de Software e tenho uma sólida base em desenvolvimento de sistemas.
 
