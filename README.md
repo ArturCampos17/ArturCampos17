@@ -2,6 +2,7 @@
 
  um desenvolvedor apaixonado por tecnologia com 23 anos. Atualmente, estou cursando Ciencia da Computação e tenho uma sólida base em desenvolvimento de sistemas.
   ## Javeiro ☕
+<tr>
 <td>
   <a>
     <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=ArturCampos17&show_icons=true&theme=tokyonight"/>
@@ -10,7 +11,8 @@
     <img height=150 background="transparent" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArturCampos17&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
   </a>
 </td>
-
+</tr>
+<tr>
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -22,7 +24,7 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
-
+</tr>
 ## 🔧 Experiência:
 
 ### Back-end Development: Construí e mantive sistemas robustos com foco em performance e escalabilidade.
