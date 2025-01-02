@@ -4,10 +4,10 @@
   ## Javeiro ☕
 <td>
   <a>
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ArturCampos17&show_icons=true&theme=tokyonight"/>
+    <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=ArturCampos17&show_icons=true&theme=tokyonight"/>
   </a>
   <a>
-    <img height=150 background="transparent" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArturCampos17&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+    <img height=150 background="transparent" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArturCampos17&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
   </a>
 </td>
 
