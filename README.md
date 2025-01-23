@@ -1,7 +1,7 @@
 ## Olá! Eu sou Artur 🤘
 
  um desenvolvedor apaixonado por tecnologia com 23 anos. Atualmente, estou cursando Ciencia da Computação e tenho uma sólida base em desenvolvimento de sistemas.
-  ## Javeiro ☕
+  ## Javeiro em progresso ☕
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
