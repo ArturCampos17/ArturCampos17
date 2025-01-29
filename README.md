@@ -35,3 +35,6 @@
 ## 🔧 Experiência:
 
 ### Back-end Development: Construí e mantive sistemas robustos com foco em performance e escalabilidade.
+### Fullstack Development: Expandindo minhas habilidades para integrar front-end e back-end, oferecendo soluções completas e inovadoras.
+
+🚀 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades. Estou aberto a colaborações e projetos desafiadores!
